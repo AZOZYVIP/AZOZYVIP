@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AZOZYVIP
+- 👋 Hi, I’m Abdulaziz sheikoon
 - 👀 I’m interested in Computers and Programing
 - 🌱 I’m currently learning Advanced Programing and Data Structres 
 - 💞️ I’m looking to collaborate on University Projects
